@@ -1,0 +1,18 @@
+p{
+color:red;
+}
+
+ul{
+    background-color: black;
+    overflow:hidden;
+    
+}
+.navbar a{
+    float:left;
+    color:yellow;
+    text-align:center;
+    padding: 14 16;
+    font-size:17px   
+}
+        
+    

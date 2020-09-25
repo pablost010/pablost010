@@ -1,0 +1,29 @@
+<doctype html>
+<html>
+<head>
+<title>agenda</title>
+< meta charset="utf-8">
+</head>
+
+<body>
+<!---Menu de navegacion del sitio--->
+<ul>
+<li><a href="https://campus.itep.es/">Pagina inicio campues</a>
+<li><a href="https://mail.google.com/">correo</a>
+</ul>
+<!--Contenido principal--->
+
+<h1> Agenda</h1>
+<p> empezamos el curso</p>
+<p>El profe nos va mezclar temas para darnos todas las semanas racion de la teoria mientras nos enseña a programar que es algo que se deja tan final que los de Asir suelen escaparse de profundizar.</p>
+
+<h2> tema 1-conceptos basicos</h2>
+<p> estamos repasando y aun no nos cuenta nada de este tema</p>
+
+<h2>¿tema 2,3,4?</h2>
+<p> ya no lo mencionara mas adelante</p>
+<h2>tema 5-programacion de aplicaciones webs</h2>
+<p>_(empieza aqui y pretende que recordemos dos asignaturas del año pasado y ademas en una de ella tuvimos lios</p>
+</body>
+</html>
+
